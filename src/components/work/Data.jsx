@@ -8,31 +8,31 @@ export const projectsData = [
   {
     id: 1,
     image: Work1,
-    title: "Web design",
+    title: "MERN Stack - Moonflix",
     category: "web",
   },
   {
     id: 2,
     image: Work2,
-    title: "App movil",
-    category: "app",
+    title: "Design - Soeltan Brick Cafe",
+    category: "design",
   },
   {
     id: 3,
     image: Work3,
-    title: "Brand design",
-    category: "design",
+    title: "Web - Ticketing",
+    category: "web",
   },
   {
     id: 4,
     image: Work4,
-    title: "App movil",
+    title: "Mobile App - Desa Digital",
     category: "app",
   },
   {
     id: 5,
     image: Work5,
-    title: "Web design",
+    title: "MERN - Vaccine QRCode",
     category: "web",
   },
 ];

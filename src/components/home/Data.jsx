@@ -57,7 +57,7 @@ const Data = () => {
       </h1>
       <h3 className="home__subtitle">Web Developer</h3>
       <p className="home__description">
-        I'm a web developer based in Banten, and I'm highly passionate and
+        I'm a web developer based in Tangerang, and I'm highly passionate and
         dedicated to my work.
       </p>
 
